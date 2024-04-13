@@ -1,9 +1,8 @@
-### Hi there, I'm dateolive! 👋
+### Hi there, I'm roy! 👋
 
-- 🔭 I’m currently studying on GuangZhou University
-- 🌱 I’m currently learning c++&&python&&java&&web
 - 💬 Ask me about WeChat:wxdatealive
-- 📫 How to reach me: Blog:https://blog.datealive.top/ Email:2448282543@qq.com CSDN:https://blog.csdn.net/weixin_45742830
+- 🔭 Focus on: Go&Rust&Java&C++&Web&Python
+- 📫 How to reach me: Email:2448282543@qq.com
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dateolive&show_icons=true&theme=tokyonight)
